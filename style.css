@@ -109,6 +109,9 @@ a:hover {
 .git {
     background-color: #4078c0;
 }
+.arw {
+    background-color: #353535;
+}
 @media screen and (max-width:1300px){
     .halfname {
         display:inline-block;
