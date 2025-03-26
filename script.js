@@ -2,7 +2,7 @@ global_nyas = 0
 
 function discord(){
     let displayed = false 
-    navigator.clipboard.writeText('UTSGhost#4892')
+    navigator.clipboard.writeText('UTSGhost')
     let button = document.getElementById("copy")
     if (!displayed){
         button.style.display = "block"
