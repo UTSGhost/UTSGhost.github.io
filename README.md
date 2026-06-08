@@ -1,3 +1,1 @@
-added readme
-modernized css
-updated link list
+This is my linktree to my socials
